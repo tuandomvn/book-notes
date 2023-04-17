@@ -44,6 +44,7 @@ by Will Larson
 
 * pg 40: Sustained productivity comes from high-performing teams, and disassembling such a team leads to significant loss of productivity, even if its members are retained.
 * pg 40: Moving individuals across teams can reset the clock on re-gelling, and so preserving a team's gelled state requires restrained growth.
+* Rotate individuals for a fixed period into an area that needs help --> help retain their membership in their current team --> full focus
 
 ##### 2.3.3: Slack
 
