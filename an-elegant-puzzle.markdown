@@ -44,7 +44,6 @@ by Will Larson
 
 * pg 40: Sustained productivity comes from high-performing teams, and disassembling such a team leads to significant loss of productivity, even if its members are retained.
 * pg 40: Moving individuals across teams can reset the clock on re-gelling, and so preserving a team's gelled state requires restrained growth.
-* Rotate individuals for a fixed period into an area that needs help --> help retain their membership in their current team --> full focus
 
 ##### 2.3.3: Slack
 
@@ -54,6 +53,7 @@ by Will Larson
 
 * pg 42: Instead move scope between teams, preserving the teams themselves. This works better because it avoids re-gelling costs, and preserves system behavior.
 * pg 42: Undoing this also entails less disruption than undoing a staffing change would.
+* Rotate individuals for a fixed period into an area that needs help --> help retain their membership in their current team --> full focus
 
 #### 2.4: Productivity in the age of hypergrowth
 
